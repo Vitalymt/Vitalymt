@@ -73,13 +73,13 @@ Vertical OLED display showing time, date, temperature, humidity, and pressure. L
 <div align="center">
 
 <a href="https://github.com/Vitalymt">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vitalymt&show_icons=true&theme=default&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalymt&layout=compact&theme=default&hide_border=true&langs_count=6" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vitalymt&show_icons=true&theme=transparent&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff&border_color=30363d" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalymt&layout=compact&theme=transparent&text_color=8b949e&title_color=58a6ff&border_color=30363d&langs_count=6" />
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vitalymt&theme=default&hide_border=true)](https://github.com/Vitalymt)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vitalymt&theme=transparent&ring=58a6ff&fire=f0883e&currStreakLabel=c9d1d9&sideLabels=c9d1d9&border=30363d)](https://github.com/Vitalymt)
 
 </div>
 
