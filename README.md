@@ -1,16 +1,103 @@
-## Hi there 👋
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Vitaly%20Mitrofanov&fontSize=40&fontColor=f0f6fc&fontAlignY=35&desc=AI%20Engineer%20%26%20Automation%20Builder&descSize=16&descAlignY=60&animation=fadeIn)](https://github.com/Vitalymt)
 
-<!--
-**Vitalymt/Vitalymt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full-stack+%7C+LLM+%26+RAG+%7C+n8n+%26+Docker;Chrome+Extensions+%7C+IoT+%7C+Data+Annotation)](https://github.com/Vitalymt)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Senior pre-sale analyst by day, AI automation builder by night. I design and ship tools that bridge the gap between LLM capabilities and real-world workflows — from PII anonymization to autonomous job search agents. My stack: **Python / FastAPI / JS / Docker / n8n / LLM APIs**.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,docker,sqlite,linux,git,github,vscode,arduino" /><br/>
+<img src="https://skillicons.dev/icons?i=n8n,postgres,nginx,redis,bash,regex" />
+
+</div>
+
+---
+
+## Featured Projects
+
+### [AnnonymizerForChrome](https://github.com/Vitalymt/AnnonymizerForChrome)
+> Chrome extension (MV3) for **offline PII anonymization** in Russian text.
+
+Processes everything locally in the browser — names, phones, INNs, passports, addresses, bank accounts. One-click restore via dictionary export/import. Supports PDF files.
+
+`JavaScript` `Chrome Extension MV3` `PDF.js` `Regex`
+
+![20+ PII types](https://img.shields.io/badge/PII_types-20%2B-1f6feb?style=flat-square) ![69 tests](https://img.shields.io/badge/tests-69_passing-3fb950?style=flat-square) ![MIT](https://img.shields.io/badge/license-MIT-8b949e?style=flat-square)
+
+---
+
+### [HH-Job-Ranker](https://github.com/Vitalymt/HH-Job-Ranker)
+> **Autonomous AI agent** for searching and evaluating vacancies on HH.ru.
+
+Generates search queries, parses HH API, evaluates matches via LLM, displays ranked results in a web dashboard, and generates personalized cover letters.
+
+`Python` `FastAPI` `APScheduler` `SQLite` `Docker`
+
+![AI-powered](https://img.shields.io/badge/AI-powered-8957e5?style=flat-square) ![~$0.0001/vacancy](https://img.shields.io/badge/cost-~$0.0001/vacancy-3fb950?style=flat-square) ![MIT](https://img.shields.io/badge/license-MIT-8b949e?style=flat-square)
+
+---
+
+### [ProjectChat](https://github.com/Vitalymt/AI-project-chat-anonimaizer)
+> **AI-powered project assistant** with document management and Obsidian integration.
+
+Upload project docs, chat with AI in context, auto-anonymize PII, save analysis artifacts directly to Obsidian vault via WebDAV sync.
+
+`Python` `FastAPI` `Vanilla JS` `SQLite` `Docker` `Obsidian`
+
+![SSE streaming](https://img.shields.io/badge/SSE-streaming-1f6feb?style=flat-square) ![Vault modes](https://img.shields.io/badge/vault-auto/manual/observe-8957e5?style=flat-square) ![MIT](https://img.shields.io/badge/license-MIT-8b949e?style=flat-square)
+
+---
+
+### [Stellar Clock](https://github.com/Vitalymt/Stellar-Clock-ESP32C3-Supermini)
+> Autonomous **IoT desk clock** on ESP32-C3 SuperMini with NTP sync.
+
+Vertical OLED display showing time, date, temperature, humidity, and pressure. Li-Ion battery with USB-C charging. All firmware in C++.
+
+`C++` `ESP32-C3` `PlatformIO` `I²C` `NTP`
+
+![NTP sync](https://img.shields.io/badge/NTP-synced-f0883e?style=flat-square) ![BME280](https://img.shields.io/badge/sensor-BME280-3fb950?style=flat-square) ![MIT](https://img.shields.io/badge/license-MIT-8b949e?style=flat-square)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Vitalymt">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vitalymt&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalymt&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=true&langs_count=6" />
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vitalymt&theme=github-dark&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=c9d1d9&sideLabels=c9d1d9&border=30363d&hide_border=true)](https://github.com/Vitalymt)
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@vitalymt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vitalymt)
+[![Email](https://img.shields.io/badge/Email-to@v--mit.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:to@v-mit.ru)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer)](https://github.com/Vitalymt)
+
+</div>
