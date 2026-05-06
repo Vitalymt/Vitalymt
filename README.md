@@ -71,8 +71,9 @@ Vertical OLED display showing time, date, temperature, humidity, and pressure. L
 <div align="center">
 
 <a href="https://github.com/Vitalymt">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vitalymt&show_icons=true&theme=transparent&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff&border_color=30363d" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalymt&layout=compact&theme=transparent&text_color=8b949e&title_color=58a6ff&border_color=30363d&langs_count=6" />
+  <img height="170em" src="https://github-readme-stats-taupe-pi.vercel.app/api?username=Vitalymt&show_icons=true&theme=transparent&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff&border_color=30363d" />
+  <img height="170em" src="https://github-readme-stats-taupe-pi.vercel.app/api/top-langs/?username=Vitalymt&layout=compact&theme=transparent&text_color=8b949e&title_color=58a6ff&border_color=30363d&langs_count=6" />
+</a>
 </div>
 
 <div align="center">
