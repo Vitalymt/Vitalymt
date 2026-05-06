@@ -78,7 +78,7 @@ Vertical OLED display showing time, date, temperature, humidity, and pressure. L
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vitalymt&theme=transparent&ring=58a6ff&fire=f0883e&currStreakLabel=c9d1d9&sideLabels=c9d1d9&border=30363d)](https://github.com/Vitalymt)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vitalymt&theme=dark&ring=58a6ff&fire=f0883e&currStreakLabel=c9d1d9&sideLabels=c9d1d9&border=30363d&background=0d1117)](https://github.com/Vitalymt)
 
 </div>
 
