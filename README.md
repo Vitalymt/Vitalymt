@@ -1,5 +1,3 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Vitaly%20Mitrofanov&fontSize=40&fontColor=f0f6fc&fontAlignY=35&desc=AI%20Engineer%20%26%20Automation%20Builder&descSize=16&descAlignY=60&animation=fadeIn)](https://github.com/Vitalymt)
-
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full-stack+%7C+LLM+%26+RAG+%7C+n8n+%26+Docker;Chrome+Extensions+%7C+IoT+%7C+Data+Annotation)](https://github.com/Vitalymt)
 
