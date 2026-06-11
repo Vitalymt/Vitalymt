@@ -76,11 +76,3 @@ Vertical OLED display showing time, date, temperature, humidity, and pressure. L
 [![Email](https://img.shields.io/badge/Email-to@v--mit.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:to@v-mit.ru)
 
 </div>
-
----
-
-<div align="center">
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer)](https://github.com/Vitalymt)
-
-</div>
