@@ -1,22 +1,6 @@
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full-stack+%7C+LLM+%26+RAG+%7C+n8n+%26+Docker;Chrome+Extensions+%7C+IoT+%7C+Data+Annotation)](https://github.com/Vitalymt)
-
----
-
 ## About
 
 Senior pre-sale analyst by day, AI automation builder by night. I design and ship tools that bridge the gap between LLM capabilities and real-world workflows — from PII anonymization to autonomous job search agents. My stack: **Python / FastAPI / JS / Docker / n8n / LLM APIs**.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,docker,sqlite,linux,git,github,vscode,arduino" /><br/>
-<img src="https://skillicons.dev/icons?i=n8n,postgres,nginx,redis,bash,regex" />
-
-</div>
 
 ---
 
