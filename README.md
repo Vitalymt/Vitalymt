@@ -21,7 +21,7 @@ A portable MP3 player hidden inside a real 1980s audio cassette. DFPlayer Mini +
 </td>
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/Vitalymt/Neon-Cassette---MP3-Player-in-a-Cassette-Shell/main/5271624631729199381.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Vitalymt/Neon-Cassette---MP3-Player-in-a-Cassette-Shell/main/assets/hero-cassette.png" width="100%"/>
 
 </td>
 </tr>
@@ -29,7 +29,7 @@ A portable MP3 player hidden inside a real 1980s audio cassette. DFPlayer Mini +
 <tr>
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/Vitalymt/Pocket-AI-Voice-Assistant/main/5339066244025489832.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Vitalymt/Pocket-AI-Voice-Assistant/main/assets/hero-ai-assistant.png" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
