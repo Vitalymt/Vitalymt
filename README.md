@@ -21,7 +21,7 @@ A portable MP3 player hidden inside a real 1980s audio cassette. DFPlayer Mini +
 </td>
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/Vitalymt/Neon-Cassette---MP3-Player-in-a-Cassette-Shell/main/assets/hero-cassette.png" width="100%"/>
+<img src="assets/neon-cassette.png" width="100%"/>
 
 </td>
 </tr>
@@ -29,7 +29,7 @@ A portable MP3 player hidden inside a real 1980s audio cassette. DFPlayer Mini +
 <tr>
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/Vitalymt/Pocket-AI-Voice-Assistant/main/assets/hero-ai-assistant.png" width="100%"/>
+<img src="assets/pocket-ai.png" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
@@ -59,7 +59,7 @@ Vertical OLED display showing time, date, temperature, humidity, and pressure. N
 </td>
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/Vitalymt/Stellar-Clock-ESP32C3-Supermini/main/assets/stellar_clock_lifestyle.png" width="100%"/>
+<img src="assets/stellar-clock.png" width="100%"/>
 
 </td>
 </tr>
