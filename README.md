@@ -63,6 +63,25 @@ Vertical OLED display showing time, date, temperature, humidity, and pressure. N
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/Vitalymt/Pocket-AI-Voice-Assistant-2.0/main/photos/bips-2.0.jpg" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+### [Pocket AI Voice Assistant 2.0](https://github.com/Vitalymt/Pocket-AI-Voice-Assistant-2.0)
+
+**Next-gen palm-sized AI assistant**
+
+Transparent acrylic case, hidden capacitive touch button, battery indicator, noise-filtering capacitor. Custom XiaoZhi firmware with toggle activation and Travily web search. ~1200₽ cost, 3hr battery.
+
+`ESP32-S3` `MAX98357A` `INMP441` `TTP223` `Travily`
+
+</td>
+</tr>
 </table>
 
 ---
