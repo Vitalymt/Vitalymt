@@ -76,7 +76,7 @@ Vertical OLED display showing time, date, temperature, humidity, and pressure. N
 
 **Next-gen palm-sized AI assistant**
 
-Transparent acrylic case, hidden capacitive touch button, battery indicator, noise-filtering capacitor. Custom XiaoZhi firmware with toggle activation and Travily web search. ~1200₽ cost, 3hr battery.
+Transparent acrylic case, hidden capacitive touch button, battery indicator, noise-filtering capacitor. Custom XiaoZhi firmware — rewritten from 16MB to 8MB RAM (using only 2MB), toggle activation, Travily web search. ~2hr battery.
 
 `ESP32-S3` `MAX98357A` `INMP441` `TTP223` `Travily`
 
