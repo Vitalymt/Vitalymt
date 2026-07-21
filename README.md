@@ -10,6 +10,30 @@ Senior pre-sale analyst by day, **hardware hacker & AI automation builder** by n
 <tr>
 <td width="50%" valign="top">
 
+### [Pocket AI Voice Assistant 2.0](https://github.com/Vitalymt/Pocket-AI-Voice-Assistant-2.0)
+
+**Next-gen palm-sized AI assistant**
+
+Transparent acrylic case, hidden capacitive touch button, battery indicator, noise-filtering capacitor. Custom XiaoZhi firmware — rewritten from 16MB to 8MB RAM (using only 2MB), toggle activation, Travily web search. ~2hr battery.
+
+`ESP32-S3` `MAX98357A` `INMP441` `TTP223` `Travily`
+
+</td>
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/Vitalymt/Pocket-AI-Voice-Assistant-2.0/main/photos/bips-2.0.jpg" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="assets/neon-cassette.png" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
 ### [Neon Cassette](https://github.com/Vitalymt/Neon-Cassette---MP3-Player-in-a-Cassette-Shell)
 
 **MP3 Player in a Cassette Shell**
@@ -19,22 +43,12 @@ A portable MP3 player hidden inside a real 1980s audio cassette. DFPlayer Mini +
 `DFPlayer Mini` `TP4056` `Li-Po` `BC547`
 
 </td>
-<td width="50%">
-
-<img src="assets/neon-cassette.png" width="100%"/>
-
-</td>
 </tr>
 
 <tr>
-<td width="50%">
-
-<img src="assets/pocket-ai.png" width="100%"/>
-
-</td>
 <td width="50%" valign="top">
 
-### [Pocket AI Voice Assistant](https://github.com/Vitalymt/Pocket-AI-Voice-Assistant)
+### [Pocket AI Voice Assistant v1.0](https://github.com/Vitalymt/Pocket-AI-Voice-Assistant)
 
 **Palm-sized AI that listens, thinks, and speaks**
 
@@ -43,9 +57,19 @@ ESP32-S3 + Xiaozhi firmware. 45×30×16mm. Wi-Fi connected, OLED status display,
 `ESP32-S3` `Xiaozhi` `OLED SSD1306` `USB-C`
 
 </td>
+<td width="50%">
+
+<img src="assets/pocket-ai.png" width="100%"/>
+
+</td>
 </tr>
 
 <tr>
+<td width="50%">
+
+<img src="assets/stellar-clock.png" width="100%"/>
+
+</td>
 <td width="50%" valign="top">
 
 ### [Stellar Clock](https://github.com/Vitalymt/Stellar-Clock-ESP32C3-Supermini)
@@ -55,30 +79,6 @@ ESP32-S3 + Xiaozhi firmware. 45×30×16mm. Wi-Fi connected, OLED status display,
 Vertical OLED display showing time, date, temperature, humidity, and pressure. NTP sync over Wi-Fi. Li-Ion battery with USB-C charging. All firmware in C++.
 
 `C++` `ESP32-C3` `PlatformIO` `I²C` `BME280`
-
-</td>
-<td width="50%">
-
-<img src="assets/stellar-clock.png" width="100%"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/Vitalymt/Pocket-AI-Voice-Assistant-2.0/main/photos/bips-2.0.jpg" width="100%"/>
-
-</td>
-<td width="50%" valign="top">
-
-### [Pocket AI Voice Assistant 2.0](https://github.com/Vitalymt/Pocket-AI-Voice-Assistant-2.0)
-
-**Next-gen palm-sized AI assistant**
-
-Transparent acrylic case, hidden capacitive touch button, battery indicator, noise-filtering capacitor. Custom XiaoZhi firmware — rewritten from 16MB to 8MB RAM (using only 2MB), toggle activation, Travily web search. ~2hr battery.
-
-`ESP32-S3` `MAX98357A` `INMP441` `TTP223` `Travily`
 
 </td>
 </tr>
