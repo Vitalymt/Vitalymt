@@ -8,20 +8,20 @@ Senior pre-sale analyst by day, **hardware hacker & AI automation builder** by n
 
 <table>
 <tr>
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/Vitalymt/Pocket-AI-Voice-Assistant-3.0/main/assets/bips-v3.jpg" width="100%"/>
+
+</td>
 <td width="50%" valign="top">
 
 ### [Pocket AI Voice Assistant 3.0](https://github.com/Vitalymt/Pocket-AI-Voice-Assistant-3.0)
 
-**Карманный AI-ассистент. Говори — он ответит.**
+**Pocket-sized AI assistant. Speak — it responds.**
 
-ESP32-S3, 1.3" OLED, магнитная зарядка, ни одной физической кнопки. Корпус 43x43 мм. Умный сон, OTA-обновления, веб-поиск через Tavily.
+ESP32-S3, 1.3" OLED display, magnetic charging, zero physical buttons. 43x43mm body. Smart sleep, OTA updates, web search via Tavily.
 
 `C++` `ESP32-S3` `ESP-IDF` `I2S` `SH1106 OLED` `Tavily API`
-
-</td>
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/Vitalymt/Pocket-AI-Voice-Assistant-3.0/main/assets/bips-v3.jpg" width="100%"/>
 
 </td>
 </tr>
