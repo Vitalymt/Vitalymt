@@ -4,9 +4,28 @@ Senior pre-sale analyst by day, **hardware hacker & AI automation builder** by n
 
 ---
 
-## 🔧 Hardware & Electronics
+## Hardware & Electronics
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### [Pocket AI Voice Assistant 3.0](https://github.com/Vitalymt/Pocket-AI-Voice-Assistant-3.0)
+
+**Карманный AI-ассистент. Говори — он ответит.**
+
+ESP32-S3, 1.3" OLED, магнитная зарядка, ни одной физической кнопки. Корпус 43x43 мм. Умный сон, OTA-обновления, веб-поиск через Tavily.
+
+`C++` `ESP32-S3` `ESP-IDF` `I2S` `SH1106 OLED` `Tavily API`
+
+</td>
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/Vitalymt/Pocket-AI-Voice-Assistant-3.0/main/assets/bips-v3.jpg" width="100%"/>
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -86,32 +105,7 @@ Vertical OLED display showing time, date, temperature, humidity, and pressure. N
 
 ---
 
-## 💻 Software & AI
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Pocket AI Voice Assistant 3.0](https://github.com/Vitalymt/Pocket-AI-Voice-Assistant-3.0)
-
-**Карманный AI-ассистент. Говори — он ответит.**
-
-ESP32-S3, 1.3" OLED, магнитная зарядка, ни одной физической кнопки. Корпус 43x43 мм. Умный сон, OTA-обновления, веб-поиск через Tavily.
-
-`C++` `ESP32-S3` `ESP-IDF` `I2S` `SH1106 OLED` `Tavily API`
-
-![v3.0](https://img.shields.io/badge/version-3.0-f0883e?style=flat-square) ![ESP32-S3](https://img.shields.io/badge/MCU-ESP32--S3%20N16R8-1f6feb?style=flat-square) ![OTA](https://img.shields.io/badge/OTA-updates-3fb950?style=flat-square)
-
-</td>
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/Vitalymt/Pocket-AI-Voice-Assistant-3.0/main/assets/bips-v3.jpg" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
+## Software & AI
 
 ### [AnnonymizerForChrome](https://github.com/Vitalymt/AnnonymizerForChrome)
 > Chrome extension (MV3) for **offline PII anonymization** in Russian text.
